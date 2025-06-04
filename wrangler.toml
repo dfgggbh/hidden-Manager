@@ -1,0 +1,7 @@
+name = "hidden-manager"
+main = "index.ts"
+compatibility_date = "2024-06-01"
+usage_model = "bundled"
+
+[build]
+command = "npm install"

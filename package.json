@@ -1,0 +1,14 @@
+{
+  "name": "hidden-manager",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx hono dev"
+  },
+  "dependencies": {
+    "hono": "^3.8.1",
+    "yaml": "^2.3.5",
+    "zod": "^3.22.2",
+    "otpauth": "^9.0.3"
+  }
+}
